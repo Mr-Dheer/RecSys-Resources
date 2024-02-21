@@ -1,7 +1,9 @@
 
 # Recommendation Resources 
 
-## I am collecting all the resources regarding RecSys, leave a star if you find this useful, and pull request if you want to contribute to this resource
+## I am collecting all the resources regarding RecSys,
+- Leave a star if you find this useful
+- Pull request if you want to contribute to this resource
 
 
 ### Common Datasets
@@ -20,7 +22,10 @@
 | KuaiSAR | Video | Search and Rec | KuaiSAR contains genuine search and recommendation behaviors of 25,877 users, 6,890,707 items, 453,667 queries, and 19,664,885 actions within a span of 19 days on the Kuaishou app | [link](https://kuaisar.github.io) |
 | Tenrec | Video, Article | General | Tenrec is a large-scale benchmark dataset for recommendation systems. It contains around 5 million users and 140 million interactions. | [link](https://tenrec0.github.io/) |
  
-This link contains all the datsets regarding RecSys - https://cseweb.ucsd.edu/~jmcauley/datasets.html
+This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+
+PhD Thesis Regarding RecSys - [link[(https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)
+
 
 
 
