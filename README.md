@@ -24,7 +24,12 @@
  
 This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 
-PhD Thesis Regarding RecSys - [link[(https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)
+
+| Name           | Tasks         | Information                                                                                                           | URL                                                   |
+|----------------|---------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| DeepCarsKit    |Context Aware  |  A deep learning based context-aware recommendation library                                                           |[link](https://www.sciencedirect.com/science/article/pii/S2665963822000380)
+
+PhD Thesis Regarding RecSys - [link](https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)
 
 
 
