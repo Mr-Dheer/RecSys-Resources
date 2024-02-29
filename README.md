@@ -36,6 +36,7 @@ PhD Thesis Regarding RecSys - [link](https://recsyswiki.com/wiki/List_of_recomme
 
 - link- https://github.com/grahamjenson/list_of_recommender_systems
 - https://www.yongfeng.me/
+- TensorFlow RecSys Summit - https://rsvp.withgoogle.com/events/recommendation-system-dev-summit
 
 
 
