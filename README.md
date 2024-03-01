@@ -31,8 +31,13 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 | Name           | Tasks         | Information                                                                                                           | URL                                                   |
 |----------------|---------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | DeepCarsKit    |Context Aware  |  A deep learning based context-aware recommendation library                                                           |[link](https://www.sciencedirect.com/science/article/pii/S2665963822000380)
-|MM-Rec          | MultiModal Tool Kit| Toolbox for MultiModal Recommendation| [link](https://github.com/enoche/MMRec)
+|MM-Rec          | MultiModal RecSys | ToolKit for MultiModal Recommendation| [link](https://github.com/enoche/MMRec)
 
+## Miscellaneous Links
+
+| Name           | Information                                                                                                           | URL                                                   |
+|----------------|---------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+   
 PhD Thesis Regarding RecSys - [link](https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)
 
 - link- https://github.com/grahamjenson/list_of_recommender_systems
