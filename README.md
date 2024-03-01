@@ -48,7 +48,7 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 | [Graham Jesnon](https://github.com/grahamjenson/list_of_recommender_systems)| A list of the SOTA RecSys being used in the Industry and also links for the Open Source RecSys| N.A|
 | [Foundation Models for Recommender Systems: A Survey and New Perspectives](https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review)| All the literature they have used, compiled over here | [link](https://arxiv.org/pdf/2402.11143.pdf) |
 | [A Survey on Large Language Models for Recommendation](https://github.com/WLiK/LLM4Rec-Awesome-Papers)| All the literature they have used, compiled over here| [link](https://arxiv.org/pdf/2305.19860.pdf)|
-|(MultiModal RecSys)[https://github.com/enoche/MultimodalRecSys]| All the literature encompising the MultiModal RecSys| N.A|
+|[MultiModal RecSys](https://github.com/enoche/MultimodalRecSys)| All the literature encompising the MultiModal RecSys| N.A|
 
 
 
