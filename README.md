@@ -50,11 +50,6 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 | [A Survey on Large Language Models for Recommendation](https://github.com/WLiK/LLM4Rec-Awesome-Papers)| All the literature they have used, compiled over here| [link](https://arxiv.org/pdf/2305.19860.pdf)|
 
 
-PhD Thesis Regarding RecSys - [link](https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)
-
-- link- https://github.com/grahamjenson/list_of_recommender_systems
-- https://www.yongfeng.me/
-- TensorFlow RecSys Summit - https://rsvp.withgoogle.com/events/recommendation-system-dev-summit
 
 
 
