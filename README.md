@@ -36,7 +36,7 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 ## Miscellaneous Links
 
 | Name           |               Information                                                                                                            |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | [Young Feng](https://www.yongfeng.me/)    | Researcher - Notes/ Slides/ Projects on RecSys|
 | [PhD Thesis](https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)| A Compilation of  RecSys thessis|
 | [Tensorflow Summit](https://rsvp.withgoogle.com/events/recommendation-system-dev-summit) | Tensorflow Summit on RecSys 2023 - Their Tools explanation for RecSys|
@@ -46,8 +46,8 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 | Name           |               Information                                                                                                            | Paper Link|
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | [Graham Jesnon]| A list of the SOTA RecSys being used in the Industry and also links for the Open Source RecSys| N.A|
-| Foundation Models for Recommender Systems: A Survey and New Perspectives| All the literature they have used, compiled over here | [link](https://arxiv.org/pdf/2402.11143.pdf) 
-| A Survey on Large Language Models for Recommendation| All the literature they have used, compiled over here| [link](https://arxiv.org/pdf/2305.19860.pdf)
+| Foundation Models for Recommender Systems: A Survey and New Perspectives| All the literature they have used, compiled over here | [link](https://arxiv.org/pdf/2402.11143.pdf) |
+| A Survey on Large Language Models for Recommendation| All the literature they have used, compiled over here| [link](https://arxiv.org/pdf/2305.19860.pdf)|
 
 
 PhD Thesis Regarding RecSys - [link](https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)
