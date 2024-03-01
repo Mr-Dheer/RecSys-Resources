@@ -35,9 +35,19 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 
 ## Miscellaneous Links
 
-| Name           | Information                                                                                                           | URL                                                   |
-|----------------|---------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-   
+| Name           |               Information                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------
+| [Young Feng](https://www.yongfeng.me/)    | Researcher - Notes/ Slides/ Projects on RecSys|
+| [PhD Thesis](https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)| A Compilation of  RecSys thessis|
+| [Tensorflow Summit](https://rsvp.withgoogle.com/events/recommendation-system-dev-summit) | Tensorflow Summit on RecSys 2023 - Their Tools explanation for RecSys|
+
+## Github Pages
+## Miscellaneous Links
+
+| Name           |               Information                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------
+
+
 PhD Thesis Regarding RecSys - [link](https://recsyswiki.com/wiki/List_of_recommender_system_dissertations)
 
 - link- https://github.com/grahamjenson/list_of_recommender_systems
