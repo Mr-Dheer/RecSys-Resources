@@ -1,5 +1,5 @@
 
-# Recommendation Resources 
+# Recommendation System Resources 
 
 ## I am collecting all the resources regarding RecSys,
 - Leave a star if you find this useful
