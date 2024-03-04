@@ -32,7 +32,8 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 |----------------|---------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | DeepCarsKit    |Context Aware  |  A deep learning based context-aware recommendation library                                                           |[link](https://www.sciencedirect.com/science/article/pii/S2665963822000380)
 |MM-Rec          | MultiModal RecSys | MMRec is a MultiModal Recommendation toolbox based on PyTorch. It integrates more than ten outstanding multimodal recommendation system models| [link](https://github.com/enoche/MMRec)
-|[Cornac](https://github.com/PreferredAI/cornac)| MultiModal RecSys| Cornac is a comparative framework for multimodal recommender systems. It focuses on making it convenient to work with models leveraging auxiliary data (e.g., item descriptive text and image, social network, etc). Cornac enables fast experiments and straightforward implementations of new models. It is highly compatible with existing machine learning libraries (e.g., TensorFlow, PyTorch).|[Paper](https://dl.acm.org/doi/abs/10.5555/3455716.3455811)
+|[Cornac](https://github.com/PreferredAI/cornac)| MultiModal RecSys| Cornac is a comparative framework for multimodal recommender systems. It focuses on making it convenient to work with models leveraging auxiliary data (e.g., item descriptive text and image, social network, etc),
+Cornac enables fast experiments and straightforward implementations of new models. It is highly compatible with existing machine learning libraries (e.g., TensorFlow, PyTorch).|[Paper](https://dl.acm.org/doi/abs/10.5555/3455716.3455811)
 
 ## Miscellaneous Links
 
