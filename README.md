@@ -55,7 +55,7 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 
 
 https://wenqifan03.github.io/openings.html
-
+https://wenqifan03.github.io/tutorials.html
 
 
 ### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
