@@ -74,4 +74,4 @@ Some open-source and effective projects can be adapted to the recommendation sys
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)   | 2023 |
 | [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE)** | 2023 |
 
-Hope our conclusion can help your work.
+Hope my Resources can help your work.
