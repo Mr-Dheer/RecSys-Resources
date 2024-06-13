@@ -57,7 +57,7 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 | Name | Information|
 |------|------------|
 | [Deep learning reveals what vocal bursts express in different cultures](https://www.nature.com/articles/s41562-022-01489-2)|The models were trained on human intensity ratings of large-scale, experimentally controlled emotional expression data gathered using the methods described in these papers|
-|[Deep learning reveals what facial expressions mean to people in different cultures](https://www.sciencedirect.com/science/article/pii/S2589004224003961)| Deep learning reveals what vocal bursts express in different cultures|The models were trained on human intensity ratings of large-scale, experimentally controlled emotional expression data gathered using the methods described in these papers|
+|[Deep learning reveals what facial expressions mean to people in different cultures](https://www.sciencedirect.com/science/article/pii/S2589004224003961)|The models were trained on human intensity ratings of large-scale, experimentally controlled emotional expression data gathered using the methods described in these papers|
 
 https://wenqifan03.github.io/openings.html
 https://wenqifan03.github.io/tutorials.html
