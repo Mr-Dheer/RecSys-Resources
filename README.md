@@ -24,7 +24,10 @@
  
 This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 
-
+## Coding Resources
+| Name          | Information|
+|---------------|------------|
+|[OpenCv](https://learnopencv.com/edge-detection-using-opencv/)| Tutorials on OpenCv|
 
 ## Libraries
 
