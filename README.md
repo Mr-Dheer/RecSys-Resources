@@ -81,4 +81,7 @@ Some open-source and effective projects can be adapted to the recommendation sys
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)   | 2023 |
 | [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE)** | 2023 |
 
+
+
+https://book.premai.io/state-of-open-source-ai/
 Hope my Resources can help your work.
