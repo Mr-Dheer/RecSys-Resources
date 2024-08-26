@@ -46,6 +46,8 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 | [Tensorflow Summit](https://rsvp.withgoogle.com/events/recommendation-system-dev-summit) | Tensorflow Summit on RecSys 2023 - Their Tools explanation for RecSys|
 |[RecSys WorkShop](https://recsys.acm.org/workshops/)| All the workshops of the RecSys|
 |[Article](https://imotions.com/case-study/how-brain-activity-seizes-the-hit-potential-of-new-music/)| Article on EEG with Music- From the Imotion|
+|[Tutorial](https://wenqifan03.github.io/tutorials.html) | RecSys Tutorials from USA University, Young Feng |
+|[OpenSource AI Book](https://book.premai.io/state-of-open-source-ai/)|  covering all the most important categories in the Open Source AI space, from model evaluations to deployment for ML/DL/LLM |
 
 ## Github Pages
 
@@ -63,12 +65,13 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 |[Deep learning reveals what facial expressions mean to people in different cultures](https://www.sciencedirect.com/science/article/pii/S2589004224003961)|The models were trained on human intensity ratings of large-scale, experimentally controlled emotional expression data gathered using the methods described in these papers|
 
 https://wenqifan03.github.io/openings.html
-https://wenqifan03.github.io/tutorials.html
+
 
 ## RecSys with Emotion
 | Name           |               Information                                                                                                            |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 |[Web Application to Recommend Songs Based on Human Facial Expressions and Emotions](https://github.com/vedanthv/MusicHealsTheSoul) | Can look at how he is recommending songs from spotify API|
+
 
 
 ### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
