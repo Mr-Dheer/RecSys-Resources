@@ -65,6 +65,11 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 https://wenqifan03.github.io/openings.html
 https://wenqifan03.github.io/tutorials.html
 
+## RecSys with Emotion
+| Name           |               Information                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|[Web Application to Recommend Songs Based on Human Facial Expressions and Emotions](https://github.com/vedanthv/MusicHealsTheSoul) | Can look at how he is recommending songs from spotify API|
+
 
 ### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
 
