@@ -9,7 +9,7 @@
 #### RecSys Labs
 | Name          | Information|
 |---------------|------------| 
-|[DSAIL@KAIST](https://dsail.kaist.ac.kr/)}} | AllmRec Paper Lab|
+|[DSAIL@KAIST](https://dsail.kaist.ac.kr/) | AllmRec Paper Lab|
 
 ### Common Datasets
 
