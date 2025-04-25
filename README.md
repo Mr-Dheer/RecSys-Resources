@@ -6,6 +6,11 @@
 - Pull request if you want to contribute to this resource
 
 
+#### RecSys Labs
+| Name          | Information|
+|---------------|------------| 
+|[DSAIL@KAIST](https://dsail.kaist.ac.kr/)} AllmRec Paper Lab|
+
 ### Common Datasets
 
 | Name           | Scene         | Tasks        | Information                                                                                                           | URL                                                   |
