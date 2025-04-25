@@ -9,7 +9,7 @@
 #### RecSys Labs
 | Name          | Information|
 |---------------|------------| 
-|[DSAIL@KAIST](https://dsail.kaist.ac.kr/)} AllmRec Paper Lab|
+|[DSAIL@KAIST](https://dsail.kaist.ac.kr/)}} | AllmRec Paper Lab|
 
 ### Common Datasets
 
@@ -32,7 +32,7 @@ This link contains all the datsets regarding RecSys - [link](https://cseweb.ucsd
 ## Coding Resources
 | Name          | Information|
 |---------------|------------|
-|[OpenCv](https://learnopencv.com/edge-detection-using-opencv/)| Tutorials on OpenCv|
+|[OpenCv](https://learnopencv.com/edge-detection-using-opencv/) | Tutorials on OpenCv |
 
 ## Libraries
 
